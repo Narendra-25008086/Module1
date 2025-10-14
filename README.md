@@ -68,21 +68,27 @@ b is True
 c: 2
 d: 9
 ```
-
-# Datatypes-Character Literal in Python
-
 ## 🎯 Aim
-To write a Python program that prints the characters `'T'` and `'a'` using character literals.
+To write a Python program that prints the characters 'T' and 'a' using character literals.
 
 ## 🧠 Algorithm
-1. Print the character `'T'`.
-2. Print the character `'a'`.
+1. Print the character 'T'.
+2. Print the character 'a'.
 
 ## 🧾 Program
-```
+
 print('T')
 print('a')
-```
+
+
+## Output
+![WhatsApp Image 2025-10-14 at 20 00 46_ffaf7bd7](https://github.com/user-attachments/assets/76d70630-b6ed-4602-87bc-439958b8d553)
+
+
+
+## Result
+The program successfully displays the characters T and a on separate lines on the screen.
+
 # 🧮 Datatypes-Complex Number Creation in Python
 
 ## 🎯 Aim
@@ -124,31 +130,35 @@ Complex Number: (2+3j)
 Real Part: 2.0
 Imaginary Part: 3.0
 
-# Datatypes-Character Literal in Python
+
+
+
+
+## Output
+![WhatsApp Image 2025-10-14 at 20 00 46_ffaf7bd7](https://github.com/user-attachments/assets/76d70630-b6ed-4602-87bc-439958b8d553)
+# Datatypes-Read and Print a String in Python
 
 ## 🎯 Aim
-To write a Python program that prints the characters 'T' and 'a' using character literals.
+To write a Python program to read a string from the user and then print it.
 
 ## 🧠 Algorithm
-1. Print the character 'T'.
-2. Print the character 'a'.
+1. Assign a variable named men_stepped_on_the_moon.
+2. Use input() to read a string from the user and store it in the variable.
+3. Print the value stored in the variable.
 
 ## 🧾 Program
 
-print('T')
-print('a')
+men_stepped_on_the_moon = input("Enter a string: ")
+print(men_stepped_on_the_moon)
+
 
 
 ## Output
-![WhatsApp Image 2025-10-14 at 20 00 46_ffaf7bd7](https://github.com/user-attachments/assets/76d70630-b6ed-4602-87bc-439958b8d553)
-
+![WhatsApp Image 2025-10-14 at 20 10 53_49351962](https://github.com/user-attachments/assets/c4567a52-1c40-4a39-81ae-7d220ce434b2)
 
 
 ## Result
-The program successfully displays the characters T and a on separate lines on the screen.
-
-## Output
-![WhatsApp Image 2025-10-14 at 20 00 46_ffaf7bd7](https://github.com/user-attachments/assets/76d70630-b6ed-4602-87bc-439958b8d553)
+The program successfully reads a string entered by the user and displays the same string as output.
 
 
 
