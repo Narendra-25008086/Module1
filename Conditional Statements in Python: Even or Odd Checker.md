@@ -21,7 +21,7 @@ else:
     print("ODD")
 ```     
 ## Output
-![WhatsApp Image 2025-10-14 at 19 47 55_3eedd69b](https://github.com/user-attachments/assets/eda03e14-a9db-4e38-ae2e-529e80ce7790)
+![WhatsApp Image 2025-10-19 at 18 58 13_d2c3758c](https://github.com/user-attachments/assets/23f0e2be-0502-4cd1-af3d-f29eb9392a2e)
 
 ## Result
 enter: 8
