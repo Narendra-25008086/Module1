@@ -31,7 +31,8 @@ print("d:", d)
 
 
 ## Output
-<img width="804" height="230" alt="Screenshot 2025-10-14 194406" src="https://github.com/user-attachments/assets/b7e46a0b-0819-4f99-99dc-7fcb6dff8d83" />
+![WhatsApp Image 2025-10-19 at 19 01 23_437e47c2](https://github.com/user-attachments/assets/33734e51-a2c5-475b-831c-21718b8e9344)
+
 
 ## Result
 ```
